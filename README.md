@@ -1,11 +1,11 @@
-# aws-storage
+# aws-sample
 AWS sample code to store, fetch, delete in aws-s3
 
 git config --global user.name <username>
 git config --global user.email <email>
 Follow below process if authentication is failing 
-  **Create Personal Access Token on GitHub**
-     **From your GitHub account, go to **
+  **Create Personal Access Token on GitHub**<br>
+     **From your GitHub account, go to **<br>
    Settings => Developer Settings 
                 => Personal Access Token 
                 => Generate New Token (Give your password) 
