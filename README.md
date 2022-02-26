@@ -5,7 +5,7 @@ git config --global user.name <username>
 git config --global user.email <email>
 Follow below process if authentication is failing 
   **Create Personal Access Token on GitHub**
-    _**From your GitHub account, go to **___
+     **From your GitHub account, go to **
    Settings => Developer Settings 
                 => Personal Access Token 
                 => Generate New Token (Give your password) 
