@@ -31,3 +31,11 @@ Follow below process if authentication is failing
   
 git clone https://github.com/awajay/aws-sample.git
 
+<br><br>
+ <b>To build aws-storage</b><br><br>
+ cd aws-storage
+ <br><br>
+ mvn clean install -Dskiptest
+ <br><br>
+ click on Run
+ <br><br>
