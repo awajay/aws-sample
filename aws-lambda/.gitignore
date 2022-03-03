@@ -1,1 +1,7 @@
 /.metadata/
+/aws-lambda-sample/.settings
+/aws-lambda-sample/.vscode
+/aws-lambda-sample/target
+/aws-lambda-sample/.classpath
+/aws-lambda-sample/.project
+/aws-lambda-sample/dependency-reduced-pom.xml
